@@ -19,6 +19,9 @@
     [super viewDidLoad];
     NSLog(@"some text");
     NSLog(@"some text");
+    NSLog(@"some text");
+    NSLog(@"some text");
+    NSLog(@"some text");
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
